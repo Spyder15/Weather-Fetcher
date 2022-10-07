@@ -4,7 +4,7 @@ from weather import Weather, Unit
 
 print ("\t\t\t\t\t Welcome to the weather forecast station..")
 
-print ("\n\n \t\t\t\t\t Developed and Maintained by Chirag Gupta.. ")
+print ("\n\n \t\t\t\t\t Developed and Maintained by Spyder .. ")
 
 print(" \n\n\t\t\t Enter the desired city name to continue..")
 
